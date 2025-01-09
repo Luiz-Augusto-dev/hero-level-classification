@@ -1,4 +1,4 @@
-let nome = "Zacaria Zaccagno";
+let nome = "Deda";
 let xp = 2500;
 
 if (xp < 10) {
